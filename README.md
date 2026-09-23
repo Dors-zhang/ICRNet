@@ -5,9 +5,9 @@
 
 ## Checkpoint 下载
 
-两个终版模型（各约 760MB）托管在 GitHub Release：
+两个终版模型（各约 760MB，文件名 `abl_km8_s234.pth` 与 `abl_adp05_ucf_s234.pth`）将在论文录用后发布于：
 `https://github.com/<你的用户名>/ICRNet/releases/tag/v1.0`
-下载后放入 `checkpoints/` 目录（文件名保持 `abl_km8_s234.pth` 与 `abl_adp05_ucf_s234.pth`）。
+下载后放入 `checkpoints/` 目录即可运行测试脚本。
 MD5：XD `671b71650e02a6a7215a0c7018ea75eb`；UCF 见 Release 说明。
 
 
