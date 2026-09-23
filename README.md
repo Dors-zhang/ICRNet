@@ -3,6 +3,14 @@
 论文：Intra-Video Consistency Refinement Network (ICRNet)
 锁定结果（单 seed 234，复测口径）：**XD-Violence AP 86.62 / mAP AVG 30.25；UCF-Crime AUC 88.94 / mAP AVG 12.21**
 
+## Checkpoint 下载
+
+两个终版模型（各约 760MB）托管在 GitHub Release：
+`https://github.com/<你的用户名>/ICRNet/releases/tag/v1.0`
+下载后放入 `checkpoints/` 目录（文件名保持 `abl_km8_s234.pth` 与 `abl_adp05_ucf_s234.pth`）。
+MD5：XD `671b71650e02a6a7215a0c7018ea75eb`；UCF 见 Release 说明。
+
+
 ## 目录结构
 
 ```
